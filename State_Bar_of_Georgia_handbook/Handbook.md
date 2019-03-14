@@ -33,13 +33,13 @@ Foreign Law Consultants. Foreign Law Consultants shall be those persons, who are
 Emeritus Members. Any member in good standing of the State Bar of Georgia who will attain the age of 70 years in a Bar year and who shall have been admitted to the practice of law for at least 25 years, five years of which must be as a member in good standing of the State Bar of Georgia, may request emeritus status from the State Bar upon petition to and approval by the Membership Department. When approved, the member shall hold emeritus status. An emeritus member of the State Bar shall not be required to pay dues or annual fees, and may not hold office in the State Bar of Georgia. An emeritus member of the State Bar of Georgia shall not be privileged to practice law except that an emeritus member may handle pro bono cases referred by either an organized pro bono program recognized by the Pro Bono Project of the State Bar of Georgia or a non-profit corporation that delivers legal services to the poor. An emeritus member may be reinstated to active or inactive membership upon application to the Membership Department and payment of non-prorated dues for the year in which the emeritus members return to active or inactive service.
 Disabled Members. Any member of the State Bar of Georgia may petition the Executive Committee for disabled status provided the member meets one of the following criteria:
 the member has been determined to be permanently disabled by the Social Security Administration; or
-the member is in the process of applying to the Social Security Administration for permanent disability status; or 
+the member is in the process of applying to the Social Security Administration for permanent disability status; or
 the member has been determined to be permanently disabled or disabled for a period in excess of one year by an insurance company and is receiving payments pursuant to a disability insurance policy; or
 the member has a signed statement from a medical doctor that the member is permanently disabled, or disabled for a period in excess of one year, and unable to practice law.
- 
+
 Upon the Executive Committee’s grant of the member’s petition for disability status, the disabled member shall be treated as an inactive member of the State Bar of Georgia and shall not be privileged to practice law. A member holding disabled status shall not be required to pay dues or annual fees. A disabled member shall continue in such status until the member requests reinstatement by written application to the Membership Department of the State Bar of Georgia.
 
- 
+
 
 Rule 1-203. Practice by Active Members; Nonresidents
 
@@ -61,7 +61,7 @@ A person who is not a member of the State Bar of Georgia, but who is allowed to 
 A person who is not a member of the State Bar of Georgia, but who is allowed to practice law in Georgia on a limited basis pursuant to Supreme Court of Georgia Rules Part XVI, Rules 97-103, Law School Graduates, may provide legal services in this state to the extent allowed by said Rules.
 A person who is not a member of the State Bar of Georgia, but who is allowed to practice law in Georgia on a limited basis pursuant to Supreme Court of Georgia Rules Part XX, Rules 114-120, Extended Public Service Program, may provide legal services in this state to the extent allowed by said Rules.
 A person who is not a member of the State Bar of Georgia, but who is allowed to practice law in Georgia on a limited basis pursuant to Supreme Court of Georgia Rules Part XXI, Rule 121, Provision of Legal Services Following Determination of Major Disaster.
- 
+
 Rule 1-204. Good Standing
 
 No lawyer shall be deemed a member in good standing:
@@ -75,31 +75,31 @@ Rule 1-205. Bar of Judicial Circuit
 
 Each member who is a resident of this State shall be considered a member of the bar of the judicial circuit in which his principal office for the practice of law is located, or, at his election, the circuit in which he resides, or if he has no office, the circuit in which he resides or last resided.
 
- 
+
 
 Rule 1-206. Affiliate Members
 
 In addition to the membership and classes of membership provided in this Chapter, the State Bar may recognize as affiliates, without the rights and privileges of membership, members of the legal profession not authorized to practice law in Georgia, but who are licensed to practice law in another state or the District of Columbia, and are in good standing in all jurisdictions in which they are licensed. Affiliate members may be furnished copies of appropriate publications and may be entitled to attend and participate, without the right to vote or hold office, in those meetings and activities conducted by the State Bar and any of its component parts or sections.
 
- 
+
 
 Rule 1-206.1. Law Student Members
 
 In addition to the membership and classes of membership provided in this Chapter, the State Bar may recognize as law student members, without the rights and privileges of membership, those law students currently enrolled in a law school approved by the American Bar Association or any law school approved by the Georgia Board of Bar Examiners. Law student members may be furnished copies of appropriate publications electronically and may be entitled to attend and participate, without the right to vote or hold office, in those meetings and activities conducted by the State Bar and any of its component parts or sections.
 
- 
+
 
 Rule 1-207. Change of Address
 
 All members of the State Bar of Georgia shall keep the membership department of the State Bar of Georgia informed of their current name, official address and telephone number. The Court and the State Bar of Georgia may rely on the official address given to the membership department and failure on the part of a member to notify the membership department may have adverse consequences to a member. The choice of a member to use only a post office box address on the Bar membership records shall constitute an election to waive personal service in any proceedings between the Bar and the member. Notification given to any department of the Bar other than the Membership Department shall not satisfy this requirement.
 
- 
+
 
 Rule 1-208. Resignation from Membership
 
 Resignation while in good standing. A member of the State Bar of Georgia in good standing may, under oath, petition the Executive Committee for leave to resign from the State Bar of Georgia. Upon acceptance of such petition by the Executive Committee by majority vote, such person shall not practice law in this state nor be entitled to any privileges and benefits accorded to active members of the State Bar of Georgia in good standing unless such person complies with part (f) or part (g) of this Rule.
 Resignation while delinquent or suspended for failure to pay dues or for failure to comply with continuing legal education requirements. A member of the State Bar of Georgia who is delinquent or suspended (but not terminated) for failure to pay dues or failure to comply with continuing legal education requirements may, under oath, petition the Executive Committee for leave to resign from the State Bar of Georgia.  Upon acceptance of such petition by the Executive Committee by majority vote, such person shall not practice law in this state nor be entitled to any privileges and benefits accorded to active members of the State Bar of Georgia unless such person complies with part (f) or part (g) of this Rule.
-A petition for leave to resign from membership with the State Bar of Georgia shall comply with the following: 
+A petition for leave to resign from membership with the State Bar of Georgia shall comply with the following:
 the petition shall be filed under oath with the Executive Director of the State Bar of Georgia and shall contain a statement that there are no disciplinary actions or criminal proceedings pending against the petitioner; and
 the petition shall contain a statement as to whether the petition is being filed under part (a) or part (b) of this Rule. If the petition is being filed under part (b), the petition shall state the term of the delinquency and/or suspension for failure to pay dues or to comply with continuing legal education requirements.
 No petition for leave to resign shall be accepted if there are disciplinary proceedings or criminal charges pending against the member, or if the member is not in good standing for failure to pay child support obligations under Bar Rule 1-209. A petition filed under this Rule shall constitute a waiver of the confidentiality provisions of Rule 4-221 (d) as to any pending disciplinary proceedings.
@@ -111,14 +111,14 @@ payment of a readmission fee to the State Bar of Georgia equal to the amount the
 for resignations while suspended for failure to comply with continuing legal education requirements under part (b) of this Rule, submission of a certificate from the Commission on Continuing Lawyer Competency declaring that the suspended member is current on all requirements for continuing legal education; and
 submission to the membership department of the State Bar of Georgia of a determination of fitness from the Board to Determine Fitness of Bar Applicants. Provided the former member seeking readmission has applied to the Board to Determine Fitness of Bar Applicants before the expiration of the five-year period after his or her resignation, the former member shall be readmitted upon submitting a determination of fitness even if the five-year period has expired.d.
 Readmission after five years. After the expiration of five years from the effective date of a voluntary resignation, the former member must comply with the Rules Governing Admission to the Practice of Law in Georgia as adopted by the Supreme Court of Georgia.
- 
+
 
 Rule 1-209. Failure to Pay Child Support Obligations
 
 Obligation to Pay Child Support. A Bar member shall not willfully refuse, as determined by a court of competent jurisdiction under the procedures of O.G.C.A. § 19-6-28.1, to timely pay a child support obligation and continue such refusal for thirty days after said determination becomes final. A certified copy of a court order finding that the member has willfully failed to maintain compliance with child support obligations shall be conclusive evidence of an infraction of this Rule. So long as a member is complying fully with the purge provisions of a court order of contempt for non-payment of child support, this Rule shall not apply.
 Not in Good Standing Upon Non Compliance. In the event a court of competent jurisdiction makes a finding, under the procedures of O.G.C.A. § 19-6-28.1, that a member has willfully failed to timely pay a child support obligation and continues such refusal for thirty days after said determination becomes final, the member shall be deemed not to be in good standing and shall remain in such status until such time as the noncompliance is corrected.
 Action by State Bar of Georgia. Upon receipt of a certified copy of an order by a court of competent jurisdiction, under the procedures of O.G.C.A. § 19-6-28.1, finding that a member has failed to timely pay a child support obligation and continues such refusal for thirty days after said determination becomes final, a notice shall be mailed by certified mail to the member's current address contained in the membership records of the State Bar. The notice is deemed received whenever actually received or five days after the notice is mailed, whichever is sooner.
-Return to Good Standing. A member deemed not to be in good standing under this Rule shall be deemed to be in good standing upon providing the Executive Director of the State Bar a certified copy of a court order finding that the delinquency has been satisfied and by paying an administrative fee set by the Executive Committee. The member shall be returned to good standing only upon compliance with the foregoing conditions. 
+Return to Good Standing. A member deemed not to be in good standing under this Rule shall be deemed to be in good standing upon providing the Executive Director of the State Bar a certified copy of a court order finding that the delinquency has been satisfied and by paying an administrative fee set by the Executive Committee. The member shall be returned to good standing only upon compliance with the foregoing conditions.
 CHAPTER 3 BOARD OF GOVERNORS
 Rule 1-301. Government by the Board of Governors
 
@@ -126,28 +126,28 @@ The government of the State Bar of Georgia shall be vested in a Board of Governo
 
 Rule 1-302. Composition
 
-The Board of Governors shall be composed of the following: 
+The Board of Governors shall be composed of the following:
 
 The President, the President-elect, the Immediate Past President, the Secretary, the Treasurer, the President of the Young Lawyers Division, the President-elect of the Young Lawyers Division, the Immediate Past President of the Young Lawyers Division and the Attorney General of Georgia;
- 
+
 the number of Board of Governors members for each Judicial Circuit as existed on January 1, 2001, plus an additional 7 Board of Governor members to be elected from the Atlanta Circuit.
 
 Each Judicial Circuit shall have an additional member for each additional five hundred active members of the State Bar added to that circuit after January 1, 2001. The size of the Board of Governors, excluding those designated in subsection (a)(1) above, shall not exceed 150, except as set out in subsection (b) below.
- 
+
 If the geographical limits of a judicial circuit are changed, and by reason of said change there is a reduction in the number of Superior Court judges to which that circuit was entitled on July 1, 1979, then and in that event, there shall be a corresponding reduction in the number of members of the Board of Governors representing that circuit provided there was more than one Board member representing that circuit. In the event that there is such a reduction, the last created post will be the first post eliminated.
- 
+
 If the change in the geographical limits of a judicial circuit does not result in a reduction in the number of Superior Court judges in such circuit, then such circuit shall retain at least as many members of the Board of Governors as it had on July 1, 1979. Additional Board representation will be determined by the number of active members of the State Bar residing in that circuit as provided above. A change in the name of a judicial circuit shall have no effect upon that circuit's Board of Governors' representatives, except as otherwise provided.
- 
+
 two representatives of the active members of the State Bar of Georgia residing outside of the State of Georgia, who themselves must be residents of different states of the United States. The nonresident representative shall be an active member of the State Bar of Georgia in good standing residing outside of the State of Georgia.
- 
+
 three members appointed as follows: The President-elect in office when this rule becomes effective shall appoint three members to the Board of Governors. Thereafter, the President-elect shall appoint the number of such members whose term expired at the annual meeting at which the President-elect assumed office. The appointed members shall be chosen in such a manner as to promote diversity within the Board of Governors.
- 
+
 Upon the creation of a new circuit, such circuit shall be entitled to elect one member to the Board of Governors even if the cap of 150 Board of Governors members has been reached, and if the cap has not been reached, may be entitled to elect additional members depending on the number of active members of the State of Georgia residing in the circuit as provided above.
- 
+
 A member of the Board of Governors must be an active member of the State Bar of Georgia in good standing. A member representing a judicial circuit shall be a member of the bar of that circuit.
- 
+
 Members of the Board of Governors shall receive no compensation for their services.
- 
+
 
 Rule 1-303. Meetings
 
@@ -235,7 +235,7 @@ A member may submit a request for waiver of any late fees in writing to the Exec
 
 Rule 1-502. Amount of License Fees
 
-The amount of such license fees for active members shall not exceed $350.00, and shall annually be fixed by the Board of Governors for the ensuing year; provided, however, that except in the case of an emergency, such annual dues shall not be increased in any one year by more than $25.00 over those set for the next preceding year. The annual license fees for inactive members shall be in an amount not to exceed one-half (1/2) of those set for active members. Subject to the above limitations, license fees may be fixed in differing amounts for different classifications of active and inactive membership, as may be established in the bylaws. 
+The amount of such license fees for active members shall not exceed $350.00, and shall annually be fixed by the Board of Governors for the ensuing year; provided, however, that except in the case of an emergency, such annual dues shall not be increased in any one year by more than $25.00 over those set for the next preceding year. The annual license fees for inactive members shall be in an amount not to exceed one-half (1/2) of those set for active members. Subject to the above limitations, license fees may be fixed in differing amounts for different classifications of active and inactive membership, as may be established in the bylaws.
 
 Rule 1-502.1. Fees for Associates
 
@@ -258,7 +258,7 @@ Rule 1-506. Clients' Security Fund Assessment
 The State Bar of Georgia is authorized to assess each member a fee of $100. This $100 fee may be paid in minimum annual installments of $25 for a period of four years. Each new member of the State Bar of Georgia will also be assessed a similar amount upon admission to the State Bar of Georgia. This fee shall be used only to fund the Clients’ Security Fund and shall be in addition to the annual license fee as provided in Rule 1-501 through Rule 1-502.
 For a member who joins the State Bar of Georgia after taking the Georgia Bar Examination, the Clients’ Security Fund Assessment shall be due and payable in $25 installments on July 1 of each year, beginning with the second full fiscal year following the year of admission, until the balance of $100 is paid. The failure of a member to pay the minimum annual installments shall subject the member to the same penalty provisions, including late fees and suspension of membership, as pertain to the failure to pay the annual license fee as set forth in Bar Rules 1-501 and 1-501.1.
 For a member who is admitted as a Foreign Law Consultant or who joins without taking the Georgia Bar Examination, and who has not previously paid the Clients’ Security Fund Assessment, the full assessment shall be due and payable prior to or upon registration with the State Bar of Georgia.
- 
+
 
 Rule 1-507. Bar Facility Assessment
 
@@ -278,7 +278,7 @@ CHAPTER 7 COMMITTEES AND SECTIONS
 Rule 1-701. Executive Committee
 
 There shall be an Executive Committee composed of such officers and members of the Board of Governors as may be designated in the bylaws, which shall exercise the powers and duties of the Board of Governors when it is not in session, subject to such limitations as the bylaws may provide. The Executive Committee shall also have the authority to supervise the election of the members of the Board of Governors as outlined in Rule 1-304 hereof, and, in particular, to ascertain on or after the first day of January of each year, the number of active members of the State Bar of Georgia who reside in each judicial circuit as of the last day in December of the preceding year; and thereupon to make a determination of whether any judicial circuit may be entitled to additional members of the Board of Governors as provided in Rule 1-302(b) hereof. In addition, whenever a new judicial circuit is created, the Executive Committee shall determine, under the provisions of Rule 1-302(b) and the bylaws, the number of members of the Board of Governors the new circuit is entitled to elect and shall supervise the elections of such members. In the event that the composition of the Board of Governors must be changed, as a result of an increase or decrease in the number of active members of the State Bar of Georgia who reside in each judicial circuit, as a result of the creation of a new judicial circuit, or as a result of a change in the geographical limits of a judicial circuit, the Executive Committee is empowered to take appropriate action to insure that the composition of the Board complies with the provisions of Rule 1-302(b), including but not limited to the implementing of the election of additional members and the designation of numerical posts. The Executive Committee shall generally have broad discretionary powers in the conduct of elections.
- 
+
 
 Rule 1-702. Standing Committees; Special Committees
 
@@ -309,7 +309,7 @@ Rule 1-801.1. Annual Midyear Meeting
 
 An annual midyear meeting of the State Bar of Georgia may be held each year at such time and place as may be designated by the Board of Governors.
 
- 
+
 
 Rule 1-802. Special Meetings
 
@@ -319,7 +319,7 @@ Rule 1-803. Notice
 
 At least thirty days notice of the time and place of each annual meeting, annual midyear meeting, and any special meeting shall be given in writing by mail to each member at his address shown on the records of the State Bar of Georgia. The notice by mail herein required may be by or through any one or more of the official publications of the State Bar of Georgia.
 
- 
+
 
 Part II - Admission to the Bar
 CHAPTER 1 ADMISSION TO THE BAR
@@ -417,7 +417,7 @@ Section 4. Failure to Register.
 
 Section 5. List of Active Members.
 
-As soon as practical after July 1 of each year, the State Bar shall furnish a copy of the membership directory to the clerks of every court of record in the State. On or before November 1, the State Bar shall furnish to the clerks of every court of record in the State a list of members of all membership categories, who are for any reason not in good standing with the State Bar. No later than six months after November 1 of each year, the State Bar shall update the list of members who are not in good standing and furnish the list to the clerks of the courts of records. A lawyer not in good standing shall be prohibited from appearing as counsel in any court, filing papers therein, or otherwise practicing law, unless and until that lawyer has a certificate from the Executive Director of the State Bar stating that he or she has become an active member in good standing. The list of all registered lawyers in good standing within the State shall be filed with the Clerk of the Supreme Court and with the Clerk of the Court of Appeals and the clerks of the various federal courts in Georgia. 
+As soon as practical after July 1 of each year, the State Bar shall furnish a copy of the membership directory to the clerks of every court of record in the State. On or before November 1, the State Bar shall furnish to the clerks of every court of record in the State a list of members of all membership categories, who are for any reason not in good standing with the State Bar. No later than six months after November 1 of each year, the State Bar shall update the list of members who are not in good standing and furnish the list to the clerks of the courts of records. A lawyer not in good standing shall be prohibited from appearing as counsel in any court, filing papers therein, or otherwise practicing law, unless and until that lawyer has a certificate from the Executive Director of the State Bar stating that he or she has become an active member in good standing. The list of all registered lawyers in good standing within the State shall be filed with the Clerk of the Supreme Court and with the Clerk of the Court of Appeals and the clerks of the various federal courts in Georgia.
 
 Section 6. Associates and Student Associates.
 
@@ -499,161 +499,161 @@ The current circuit membership, with the "odd" and "even" posts now in existence
 
 ODD
 
-Alapaha #1 
-Alcovy #1 
-Appalachian 
-Atlanta #1 
-Atlanta #3 
-Atlanta #5 
-Atlanta #7 
-Atlanta #9 
-Atlanta #11 
-Atlanta #13 
-Atlanta #15 
-Atlanta #17 
-Atlanta #19 
-Atlanta #21 
-Atlanta #23 
-Atlanta #25 
-Atlanta #27 
-Atlanta #29 
-Atlanta #30	Atlanta #32 
-Atlanta #34 
+Alapaha #1
+Alcovy #1
+Appalachian
+Atlanta #1
+Atlanta #3
+Atlanta #5
+Atlanta #7
+Atlanta #9
+Atlanta #11
+Atlanta #13
+Atlanta #15
+Atlanta #17
+Atlanta #19
+Atlanta #21
+Atlanta #23
+Atlanta #25
+Atlanta #27
+Atlanta #29
+Atlanta #30	Atlanta #32
+Atlanta #34
 Atlanta #36
 Atlanta #39
-Atlantic #2 
-Augusta #1 
-Augusta #3 
-Blue Ridge #2 
-Brunswick #1 
-Chattahoochee #2 
-Chattahoochee #4 
-Cherokee #2 
-Clayton #1 
-Clayton #3 
-Cobb #2 
-Cobb #4 
-Cobb #6 
-Conasauga #2 
-Cordele 
-Coweta #2 
-Dougherty #2	
-Dublin 
-Eastern #2 
-Eastern #4 
-Flint #1 
-Griffin #2 
-Gwinnett #1 
-Gwinnett #3 
-Lookout Mtn. #2 
-Macon #1 
+Atlantic #2
+Augusta #1
+Augusta #3
+Blue Ridge #2
+Brunswick #1
+Chattahoochee #2
+Chattahoochee #4
+Cherokee #2
+Clayton #1
+Clayton #3
+Cobb #2
+Cobb #4
+Cobb #6
+Conasauga #2
+Cordele
+Coweta #2
+Dougherty #2
+Dublin
+Eastern #2
+Eastern #4
+Flint #1
+Griffin #2
+Gwinnett #1
+Gwinnett #3
+Lookout Mtn. #2
+Macon #1
 Macon #3
-Member-at-Large #1 
+Member-at-Large #1
 Member-at-Large #2
-Middle #2 
-Mountain 
-Northeastern #2 
-Northern #1 
-Ocmulgee #2 
-Oconee #2 
+Middle #2
+Mountain
+Northeastern #2
+Northern #1
+Ocmulgee #2
+Oconee #2
 Ogeechee #2
 
-Pataula 
-Piedmont 
-Rome #1 
-South Georgia #2 
-Southern #2 
-Southwestern 
-Stone Mountain #2 
-Stone Mountain #4 
-Stone Mountain #6 
+Pataula
+Piedmont
+Rome #1
+South Georgia #2
+Southern #2
+Southwestern
+Stone Mountain #2
+Stone Mountain #4
+Stone Mountain #6
 Stone Mountain #8
 Stone Mountain #10
-Tallapoosa #1 
-Toombs 
+Tallapoosa #1
+Toombs
 Towaliga
-Waycross #2 
-Western #1 
-Out of State #1 
- 
- 
+Waycross #2
+Western #1
+Out of State #1
+
+
 
 EVEN
 
-Alapaha #2 
-Alcovy #2 
-Atlanta #2 
-Atlanta #4 
-Atlanta #6 
-Atlanta #8 
-Atlanta #10 
-Atlanta #12 
-Atlanta #14 
-Atlanta #16 
-Atlanta #18 
-Atlanta #20 
-Atlanta #22 
-Atlanta #24 
-Atlanta #26 
-Atlanta #28 
-Atlanta #31 
-Atlanta #33	
-Atlanta #35 
+Alapaha #2
+Alcovy #2
+Atlanta #2
+Atlanta #4
+Atlanta #6
+Atlanta #8
+Atlanta #10
+Atlanta #12
+Atlanta #14
+Atlanta #16
+Atlanta #18
+Atlanta #20
+Atlanta #22
+Atlanta #24
+Atlanta #26
+Atlanta #28
+Atlanta #31
+Atlanta #33
+Atlanta #35
 Atlanta #37
 Atlanta #38
 Atlanta #40
-Atlantic #1 
-Augusta #2 
-Augusta #4 
+Atlantic #1
+Augusta #2
+Augusta #4
 Bell Forsyth
-Blue Ridge #1 
-Brunswick #2 
-Chattahoochee #1 
-Chattahoochee #3 
-Cherokee #1 
-Clayton #2 
-Cobb #1 
-Cobb #3 
-Cobb #5 
+Blue Ridge #1
+Brunswick #2
+Chattahoochee #1
+Chattahoochee #3
+Cherokee #1
+Clayton #2
+Cobb #1
+Cobb #3
+Cobb #5
 Cobb #7
-Conasauga #1 
-Coweta #1 
-Dougherty #1 
-Douglas 
+Conasauga #1
+Coweta #1
+Dougherty #1
+Douglas
 Eastern #1
 
-Eastern #3 
-Enotah 
-Flint #2 
-Griffin #1 
-Gwinnett #2 
-Gwinnett #4 
-Houston 
-Lookout Mtn. #1 
-Lookout Mtn. #3 
-Macon #2 
+Eastern #3
+Enotah
+Flint #2
+Griffin #1
+Gwinnett #2
+Gwinnett #4
+Houston
+Lookout Mtn. #1
+Lookout Mtn. #3
+Macon #2
 Member-at-Large #3
 Middle #1
-Northeastern #1 
-Northern #2 
-Ocmulgee #1 
-Ocmulgee #3 
-Oconee #1 
-Ogeechee #1 
-Paulding	Rockdale 
-Rome #2 
-South Georgia #1 
-Southern #1 
-Southern #3 
-Stone Mountain #1 
-Stone Mountain #3 
-Stone Mountain #5 
-Stone Mountain #7 
-Stone Mountain #9 
-Tallapoosa #2 
-Tifton 
-Waycross #1 
-Western #2 
+Northeastern #1
+Northern #2
+Ocmulgee #1
+Ocmulgee #3
+Oconee #1
+Ogeechee #1
+Paulding	Rockdale
+Rome #2
+South Georgia #1
+Southern #1
+Southern #3
+Stone Mountain #1
+Stone Mountain #3
+Stone Mountain #5
+Stone Mountain #7
+Stone Mountain #9
+Tallapoosa #2
+Tifton
+Waycross #1
+Western #2
 Out of State #2
 Section 6. Alterations of Positions on Board of Governors.
 
@@ -731,7 +731,7 @@ upon the absence, death, disability, or resignation of the President, the Presid
 plan the program for the year in which he or she shall act as President, including activities associated with the inaugural event during the Annual Meeting;
 in planning his or her year, ensure continuity in the program of the State Bar of Georgia for the benefit of the legal profession and the public, and make needed arrangements for the prompt implementation of the program upon taking office as President; and
 serve as an ex-officio member of the Investigative Panel of the State Disciplinary Board.
- 
+
 
 Section 4. The Immediate Past President.
 
@@ -1107,7 +1107,7 @@ To the actual knowledge of the Covered Person a Related Person or entity is eith
 "Related Person" is defined as, (a) your spouse, and those individuals related to you or your spouse by blood or marriage, including ancestors, parents, children, siblings, grandparents, grandchildren, great-grandchildren, aunts, uncles, nieces, nephews, and the spouses of those relatives, or any member of your household; (b) entities of which Covered Persons are directors, general partners, agents, or employees, and entities that are under the control of, or under common control with, entities of which Covered Persons are directors, general partners, agents, or employees; (c) individuals who are general partners, principals, or employers of Covered Persons; (d) trusts, estates, incompetents, conservatees, or minors of which Covered Persons are fiduciaries; and (e) trusts and estates of which Related Persons, as defined above, are substantial beneficiaries.
 The performance of simultaneous governance roles for both the State Bar and an Affiliated Organization, or any of them, shall not in and of itself be deemed to constitute conflicting interests or to give rise to conflicting interest transactions.
 A Covered Person shall disclose any conflicting interest to the officer or chairperson immediately presiding over the business of the Bar to which the conflict may relate.
-Nothing herein shall impel any individual to refrain from expressing during the course of governance deliberations of the State Bar those positions the individual believes in good faith to advance the stated purposes of the State Bar of Georgia. 
+Nothing herein shall impel any individual to refrain from expressing during the course of governance deliberations of the State Bar those positions the individual believes in good faith to advance the stated purposes of the State Bar of Georgia.
 Standing Board Policy 700 (Document Handling and Disclosure)
 POLICY ON DOCUMENT HANDLING AND DISCLOSURE
 
@@ -1123,7 +1123,7 @@ Standing Board Policy 800 (Confidentiality)
 POLICY ON CONFIDENTIALITY
 
 Preamble
-   The State Bar of Georgia is an administrative agency created by the Supreme Court of Georgia for the purposes of: (a) fostering among the members of the State Bar the principles of duty and service to the public; (b) improving the administration of justice; and (c) advancing the practice of law. 
+   The State Bar of Georgia is an administrative agency created by the Supreme Court of Georgia for the purposes of: (a) fostering among the members of the State Bar the principles of duty and service to the public; (b) improving the administration of justice; and (c) advancing the practice of law.
    The Policy on Confidentiality of the State Bar of Georgia establishes certain standards for the following persons who are elected, appointed, or serve ex officio: elected State Bar officers; members of the Board of Governors; members of the Bar's Executive Committee; officers and other members of the Executive Committee and Executive Council of the Young Lawyers Division; and employees and staff of the State Bar ("Covered Persons"). This Policy is intended to supplement, but not replace, any applicable state or federal laws or regulations applicable to the State Bar of Georgia or its members, as well as the Georgia Rules of Professional Conduct and any other ethical rules or obligations governing Georgia lawyers.
 
 Policy on Confidentiality
@@ -1142,7 +1142,7 @@ Whistleblower Non-Retaliation Policy
 Any person may report concerns regarding suspected fraud, violations of law, conflicts of interest, breakdowns in internal controls, financial reporting issues, and other areas of major governance concern regarding the State Bar of Georgia to the General Counsel of the State Bar, or someone designated for that purpose by the General Counsel for investigation and action as it is deemed to be appropriate. Such a report may be made anonymously.
 The State Bar of Georgia forbids any retaliatory action, including harassment, intimidation, or adverse employment actions of any kind, to be taken against an individual who, in good faith, reports a concern about any matter addressed in paragraph 1, or who in good faith complains about or raises a concern about any type of harassment, retaliation, or discrimination prohibited by applicable law or State Bar policy. Retaliation is also prohibited against persons who are not themselves complainants, but who participate in good faith in an investigation.
     Any person who engages in any form of retaliation will be subject to discipline up to and including employee termination (or removal of a volunteer) from his or her position. Individuals who believe that they or someone they know is or has been subject to retaliation should immediately report this to the General Counsel of the State Bar or someone designated for that purpose by the General Counsel. Any such report shall be investigated and handled in accordance with the State Bar's Anti-Discrimination and Harassment Policy, and Reporting Procedures set forth as § 1.29 in the Personnel Manual of the State Bar of Georgia. The General Counsel and/or his or her designee shall have the authority to set up a process and procedures for the handling of such reports, which shall be published to all potentially affected persons, including but not limited to the establishment of a hotline telephone number.
-Nothing in this policy shall prohibit the State Bar of Georgia from taking disciplinary or other employment action on grounds independent of the acts for which retaliation is forbidden. 
+Nothing in this policy shall prohibit the State Bar of Georgia from taking disciplinary or other employment action on grounds independent of the acts for which retaliation is forbidden.
 Standing Executive Committee Policy 100 (Amicus Brief Policy)
 Amicus Brief Policy (Adopted Feb. 17, 1994)
 
@@ -1173,7 +1173,7 @@ The Executive Committee strongly encourages the President-elect not to reappoint
 The President-elect should expressly inform the person or persons he or she selects under this Rule that they will only serve a single term in the appointed position.
 
 Standing Executive Committee Policy 400 (Appointments to Bench and Bar Cmte.)
-Appointments to the Bench and Bar Committee (Adopted August 22, 2003) 
+Appointments to the Bench and Bar Committee (Adopted August 22, 2003)
 
 The members of the Bench and Bar Committee of the State Bar of Georgia shall be appointed as follows:
 
@@ -1313,11 +1313,11 @@ Active members of the State Bar of Georgia are encouraged to run for a number of
 2. Assist voters by providing to them a reasonable amount of information furnished by candidates in contested races; and
 3. Afford all candidates a fair and equal election process.
 
-(a) Election Schedule For All Leadership Positions. Pursuant to Article VII, Section 14, of the State Bar Bylaws, the Elections Committee will prepare an Election Schedule with appropriate time lines and dates for review and approval by the Board of Governors. 
+(a) Election Schedule For All Leadership Positions. Pursuant to Article VII, Section 14, of the State Bar Bylaws, the Elections Committee will prepare an Election Schedule with appropriate time lines and dates for review and approval by the Board of Governors.
 
 (b) Campaigning For All Leadership Positions in Contested Races.
 
-1. Professionalism. Candidates are encouraged to conduct positive campaigns and to refrain from sending negative, false or misleading information of any kind. 
+1. Professionalism. Candidates are encouraged to conduct positive campaigns and to refrain from sending negative, false or misleading information of any kind.
 2. State Bar Trademarks. The State Bar and YLD logos are registered trademarks of the State Bar of Georgia.  Any use of these trademarks without the prior written consent of the State Bar of Georgia is strictly prohibited.  All candidates for office with the State Bar and the YLD must refrain from incorporating these logos or any similar likeness, Bar letterhead, Bar images or any language that might imply an endorsement, into campaign materials.
 3. State Bar Website. Pursuant to the approved Election Schedule ((a) above), the State Bar will provide each candidate a page on the State Bar website.  The candidate page will contain the candidate’s biography, candidate message, and photo, as described below. No hyperlinks will be allowed on the State Bar created page for candidates except as provided in 4.b below.  Each candidate’s information will remain on the State Bar website throughout the election.  Changes submitted after the deadline established for receipt of this information will not be accepted, and no date extensions for submitting the form will be granted for any reason.
 
@@ -1344,7 +1344,7 @@ This e-mail is being sent directly by (Candidate) (or by ______ on behalf of and
 (c) Board of Governors Nominating Petitions.  In accordance with the State Bar of Georgia Bylaws, Article VII, Sections 2 and 4, all candidates, including incumbents and non-incumbents, for circuit and out-of-state posts on the Board of Governors, are required to submit petitions of nomination.  Each candidate’s petition must be signed by a minimum number of active members of the State Bar from the circuit in which the candidate’s address as registered with the State Bar of Georgia under Rule 1-205 is located.  The minimum number of signatures varies by circuit size as follows:
 
 1. three signatures from a circuit having less than twenty-five members;
-2. seven signatures from a circuit having more than twenty-four but less than one hundred members; 
+2. seven signatures from a circuit having more than twenty-four but less than one hundred members;
 3. twenty signatures from a circuit having more than ninety-nine members; or
 4. five active non-resident signatures for candidates for out-of-state posts.
 
@@ -1429,16 +1429,16 @@ Section 2.  Terms of Office
 Section 3.  Alternate Appointments
 
 Standing Executive Committee Policy 1100 (Member Legal Service Programs)
-Consistent with the purpose of the State Bar of Georgia to foster among its members the principles of duty and service to the public, State Bar sections, divisions, committees, and programs (“State Bar Entities”) are encouraged to adopt, establish or participate in legal service programs and projects, including, but not limited to pro bono legal services through the Pro Bono Project or a 501(c)(3) legal services organization whose services conform to the American Bar Association Standards for Programs Providing Civil Pro Bono Legal Services to Persons of Limited Means. 
+Consistent with the purpose of the State Bar of Georgia to foster among its members the principles of duty and service to the public, State Bar sections, divisions, committees, and programs (“State Bar Entities”) are encouraged to adopt, establish or participate in legal service programs and projects, including, but not limited to pro bono legal services through the Pro Bono Project or a 501(c)(3) legal services organization whose services conform to the American Bar Association Standards for Programs Providing Civil Pro Bono Legal Services to Persons of Limited Means.
 
-In an effort to provide qualified volunteers and to ensure that competent services are provided to the public, the State Bar expects the State Bar Entities to select legal service opportunities that provide their volunteers with adequate training and supervision, and require volunteers to maintain, or be covered by, legal malpractice insurance at all times when volunteering. All volunteers must comply with State Bar of Georgia rules and regulations and the rules and guidelines of the Pro Bono Project or other organizations through which the services are provided. 
+In an effort to provide qualified volunteers and to ensure that competent services are provided to the public, the State Bar expects the State Bar Entities to select legal service opportunities that provide their volunteers with adequate training and supervision, and require volunteers to maintain, or be covered by, legal malpractice insurance at all times when volunteering. All volunteers must comply with State Bar of Georgia rules and regulations and the rules and guidelines of the Pro Bono Project or other organizations through which the services are provided.
 
 Prior to adopting, creating, or participating in a legal service program or project, each State Bar Entity must seek advance approval of the Executive Director of the State Bar of Georgia. All requests for approval of a legal service program or project must be submitted in writing in such form as may be prescribed by the Executive Director. The Executive Director may refer any request for approval to the Executive Committee of the State Bar of Georgia.
 
 The State Bar Entity shall provide the Executive Director with an annual report by April 30th of each year the program or project is in operation, which includes: (1) the name of the organization through which the services are offered; (2) a brief summary of the services provided; (3) the number of service events supported; (4) the number of volunteers involved; (5) the total number of service hours; and (6) the number of clients served.
 
 Standing Executive Committee Policy 1200 (Endorsement of Political or Judicial Candidates)
-Endorsement of Candidates by Officers, Executive Director and General Counsel 
+Endorsement of Candidates by Officers, Executive Director and General Counsel
 (Adopted May 19, 2017)
 
 State Bar officers may not use their official title or include their connection to the Bar in any public endorsement of political or judicial candidates. When an officer of the State Bar of Georgia verbally endorses a candidate, the officer shall clearly state that the endorsement is made in his or her personal capacity and is not the endorsement of the State Bar of Georgia.  
@@ -1464,8 +1464,8 @@ to aid and promote the advancement of YLD members in the activities of the State
 to foster among YLD members the principles of duty and service to the public;
 to provide YLD members with an opportunity to participate in activities directed toward improving the administration of justice;
 to foster discussion and interchange of ideas among YLD members relating to the duties, responsibilities, and problems of YLD members; and
-to provide a full and complete program of activities and projects in those areas of the State Bar of Georgia in which YLD members are particularly suited. 
- 
+to provide a full and complete program of activities and projects in those areas of the State Bar of Georgia in which YLD members are particularly suited.
+
 ARTICLE II MEMBERSHIP
 Section 1 Qualification for Membership
 
@@ -1488,7 +1488,7 @@ upon such member ceasing to be an active member in good standing of the State Ba
 in the case of Affiliate Members, by the vote of a majority of the YLD members in attendance at any meeting of the YLD membership.
 Notwithstanding the foregoing, a person who met the requirements of Section 4(a) above at the time such person was elected President-Elect shall continue to be a YLD Member for the duration of the terms of President and Immediate Past President to which he or she succeeds.
 
- 
+
 
 ARTICLE III OFFICERS
 Section 1. Officers
@@ -1517,7 +1517,7 @@ Section 6. Secretary
 
 The Secretary shall keep full minutes of all meetings, including meetings of the the Executive Committee, the Representative Council, and the YLD membership; shall publish such minutes at the proper subsequent meetings; shall give notice of meetings; and shall perform all other duties as may be incidental to the office of Secretary or as assigned by the President, the YLD membership at any regular meeting, or by the Executive Committee or Representative Council.
 
- 
+
 
 Section 7. Editor of the Young Lawyers Division Newsletter
 
@@ -1545,19 +1545,19 @@ Section 2. Composition of the Executive Committee
 The Executive Committee shall be composed of:
 
 the Officers; and
- 
+
 
 the appointed Directors.
- 
 
- 
+
+
 
 Section 3. Directors
 
 (a) Appointment. A minimum of four (4) Directors shall be appointed by the President to serve at the pleasure of the President and to be directly responsible to the President.
 
 (b) Duties. The Directors shall assist the President during his or her term in office and shall perform such duties and responsibilities as designated by the President. The Directors shall also oversee the activities of and advise one or more of the YLD Special Committees as designated by the President.
- 
+
 
 Section 4. Terms of Office
 
@@ -1567,7 +1567,7 @@ Each member of the Executive Committee shall hold office for the following terms
 
 (b) The Officers shall serve for a period concurrent with the incoming President, beginning upon their swearing-in at the Annual Meeting at which they are sworn-in as Officers and continuing until their successors are sworn-in at the next Annual Meeting.
 
- 
+
 
 Section 5. Eligibility
 
@@ -1666,7 +1666,7 @@ The Secretary shall cause to be performed the following in connection with elect
 
 (4) the names and addresses of members of the Nominating Committee and the Election Committee.
 
- 
+
 
 Section 4. Nominations
 
@@ -1674,7 +1674,7 @@ Nominations for any office or position may be made by the Nominating Committee (
 
 (a) Nominations from Nominating Committee.
 
-(1) Nominations of Officers. In conjunction with and during the State Bar of Georgia Midyear Meeting, the Nominating Committee shall nominate one (1) or more candidates for the office of President-Elect, Treasurer and Secretary, and shall report the names of all such nominees to the Election Committee. 
+(1) Nominations of Officers. In conjunction with and during the State Bar of Georgia Midyear Meeting, the Nominating Committee shall nominate one (1) or more candidates for the office of President-Elect, Treasurer and Secretary, and shall report the names of all such nominees to the Election Committee.
 (2) Nominations for Representative Council. Not less than forty-five (45) days prior to the date of the State Bar of Georgia Annual Meeting, the Nominating Committee shall nominate: five (5) or more candidates from each Federal Judicial District for election as members representing such district to fill the terms that will terminate at the next Annual Meeting; twelve (12) or more candidates for election as members at large to the Representative Council; and two (2) or more candidates for election as nonresident members of the Representative Council in the years that the term of such office terminates at the next Annual Meeting. The Nominating Committee shall report the names of all Representative Council nominees to the Election Committee not less than forty-five (45) days prior to the date of the State Bar of Georgia Annual Meeting.
 
 (b) Nominations from Members. Nominations for candidates for the offices of President-Elect, Treasurer and Secretary and for positions on the Representative Council may be made by the membership of the Young Lawyers Division as follows:
@@ -1687,15 +1687,15 @@ Nominations for any office or position may be made by the Nominating Committee (
 
 Nominating Petition the Young Lawyers Division
 
-The undersigned member of the Young Lawyers Division of the State Bar of Georgia in good standing  hereby nominate ____________________ for the office of ___________________ for the term beginning at the close of the Annual Meeting in ______. 
-_________________________ Nominator 
+The undersigned member of the Young Lawyers Division of the State Bar of Georgia in good standing  hereby nominate ____________________ for the office of ___________________ for the term beginning at the close of the Annual Meeting in ______.
+_________________________ Nominator
 _________________________ Nominator [if applicable]
-Date ____________ 
-I, _________________________, the person nominated in this petition, hereby accept said nomination and, if elected, will serve. 
-_________________________ Nominee 
+Date ____________
+I, _________________________, the person nominated in this petition, hereby accept said nomination and, if elected, will serve.
+_________________________ Nominee
 
-(c) No Nominations. Should a position on the Representative Council which is to be filled at an Annual Meeting lack a nomination properly filed in accordance with these bylaws, then nominations for such position may be made from the floor at the State Bar of Georgia Annual Meeting. 
- 
+(c) No Nominations. Should a position on the Representative Council which is to be filled at an Annual Meeting lack a nomination properly filed in accordance with these bylaws, then nominations for such position may be made from the floor at the State Bar of Georgia Annual Meeting.
+
 
 Section 5. Certification of Nominees
 
@@ -1721,11 +1721,11 @@ The election of the Representative Council shall occur at the State Bar of Georg
 
 (c) Counting and Report. The Executive Director of the Young Lawyers Division or his or her nominee shall, at the end of the voting, count the votes and report the results at the State Bar of Georgia Annual Meeting. The Executive Director may employ such impartial clerical assistance as he or she may deem necessary.
 
-(1) The five (5) candidates receiving the greatest number of votes in the elections for members from each of the Federal Judicial Districts to the Representative Council shall be declared elected. 
+(1) The five (5) candidates receiving the greatest number of votes in the elections for members from each of the Federal Judicial Districts to the Representative Council shall be declared elected.
 
-(2) The twelve (12) candidates receiving the greatest number of votes in the elections for members at large to the Representative Council shall be declared elected. 
+(2) The twelve (12) candidates receiving the greatest number of votes in the elections for members at large to the Representative Council shall be declared elected.
 
-(3) The two (2) candidates receiving the greatest number of votes in the election for nonresident member to the Representative Council shall be declared elected. 
+(3) The two (2) candidates receiving the greatest number of votes in the election for nonresident member to the Representative Council shall be declared elected.
 
 (4) In the event two (2) or more candidates receive the same number of votes in any election and such tie is between the candidates who receive the lowest number of votes that still might result in such candidates being elected, the YLD members present at the State Bar of Georgia Annual Meeting shall, by vote, determine which of such tying candidates shall be declared elected
 
@@ -1740,8 +1740,8 @@ In the event that:
 
 (a) any member of the Representative Council representing a specific Federal Judicial District ceases to be a resident of the Federal Judicial District which such member represents; or
 
-(b) a nonresident member of the Representative Council becomes a resident of a Federal Judicial District in the State of Georgia, such member shall continue to serve on the Representative Council only until the next State Bar of Georgia Annual Meeting. If the term of office of such member does not normally expire at such Annual Meeting, there shall be a special nomination and election to elect a new member to serve for the remainder of such unexpired term. Such special election and nominations shall be conducted as elections and nominations for such position are normally conducted. 
- 
+(b) a nonresident member of the Representative Council becomes a resident of a Federal Judicial District in the State of Georgia, such member shall continue to serve on the Representative Council only until the next State Bar of Georgia Annual Meeting. If the term of office of such member does not normally expire at such Annual Meeting, there shall be a special nomination and election to elect a new member to serve for the remainder of such unexpired term. Such special election and nominations shall be conducted as elections and nominations for such position are normally conducted.
+
 
 Section 3. Vacancies
 
@@ -1765,7 +1765,7 @@ Vacancies occurring in any office shall be filled as follows:
 
 (i) Any vacancy arising in the office of a nonresident member of the Representative Council shall be filled by appointment by the President for the unexpired term, provided that the appointee shall not be a resident of any Federal Judicial District in the State of Georgia.
 
- 
+
 
 ARTICLE IX COMMITTEES
 Section 1. Standing Committees
@@ -1782,14 +1782,14 @@ Each Standing Committee shall include in its membership at least six (6) members
 
 (e) Communications. This committee, which shall include the Secretary and the Editor(s) as members, shall consider and make recommendations on proposed publications of the Young Lawyers Division and the number and types of publications issued or sponsored by the Young Lawyers Division.
 
-(f) Public Relations and Policy. This committee shall consider and make recommendations on ways to promote a positive public image of young lawyers in the State of Georgia and shall inform the membership of any legislation relevant to the legal profession. The actions of this committee shall comply with the requirements of Article XI, Section 1. 
+(f) Public Relations and Policy. This committee shall consider and make recommendations on ways to promote a positive public image of young lawyers in the State of Georgia and shall inform the membership of any legislation relevant to the legal profession. The actions of this committee shall comply with the requirements of Article XI, Section 1.
 
- 
+
 
 Section 2. Special Committees
 
 The President shall appoint such special committees as he or she shall deem necessary and proper and shall designate their duties and their size. Upon motion of any YLD member and the passage of such motion by a majority vote at any meeting of the YLD membership, a committee for any specific purpose may be formed, and it shall be mandatory for the President to make the appointment of such committee. The President may delegate the appointment of committee members to the Committee Chairperson of the respective committees.
- 
+
 
 Section 3. Committee Chairpersons
 
@@ -1802,8 +1802,8 @@ Each Committee Chairperson shall submit to the President, Secretary and such oth
 ARTICLE X MEETINGS
 Section 1. Business Meetings of the YLD Members
 
-YLD members shall meet not less than four (4) times during each Bar Year. 
- 
+YLD members shall meet not less than four (4) times during each Bar Year.
+
 
 (a) Midyear Meeting. The YLD members shall meet annually at the time and place designated by the Board of Governors for the Midyear Meeting of the State Bar of Georgia unless the President designates a different place and time. The Secretary shall cause notice of the Midyear Meeting to be given to all YLD members not less than thirty (30) days before such Midyear Meeting.
 
@@ -1817,14 +1817,14 @@ Section 2. Representative Council Meetings
 
 (b) Attendance Requirement. Unless otherwise modified by majority vote of the Representative Council, or if such provision is waived or suspended by a majority vote of the Representative Council, each member of the Representative Council shall be required to attend at least three (3) of the meetings set forth in Section 1 of this Article.
 
- 
+
 
 Section 3. Executive Committee Meetings
 
-(a) The Executive Committee shall meet upon the call of the President or upon the written request addressed to the President of a majority of the voting members of the Executive Committee. 
+(a) The Executive Committee shall meet upon the call of the President or upon the written request addressed to the President of a majority of the voting members of the Executive Committee.
 
 (b) Unless otherwise modified by majority vote of the Executive Committee, or if such provision is waived or suspended by a majority vote of the Executive Committee, each member of the Executive Committee shall be required to attend at least three (3) of the meetings set forth in Section 1 of this Article.
- 
+
 
 Section 4. Committee Meetings
 
@@ -1836,7 +1836,7 @@ All meetings may be conducted in person or by any means of communication by whic
 
 Section 6. Quorum
 
-(a) Ten (10) members of the Representative Council shall constitute a quorum for Representative Council meetings; 
+(a) Ten (10) members of the Representative Council shall constitute a quorum for Representative Council meetings;
 
 (b) Thirty (30) YLD members shall constitute a quorum for meetings of the YLD members.
 
@@ -1852,7 +1852,7 @@ ARTICLE XI LEGISLATION AND PUBLICITY
 Section 1. Legislation
 
 No legislation shall be recommended, approved or disapproved in the name of the Young Lawyers Division unless that recommendation, approval, or disapproval is done in the manner set forth and consistent with Article II, Section 6 of the Bylaws of the State Bar of Georgia.
- 
+
 
 Section 2. Publications
 
